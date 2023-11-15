@@ -1,6 +1,6 @@
 # ue19_labo09-10
 ## Question 1
-### Dossier oh-my-git images
+### Dossier image oh-my-git
 -  Contient les images de réussite de oh-my-git
 
 ## Question 2
