@@ -15,7 +15,7 @@ jobs:
       contents: read
       
     steps:
-    - name: Build the Docker image
+    - name: Build the Docker images
     - uses: actions/checkout@v4
     
     - name: Log in to the Container registry
